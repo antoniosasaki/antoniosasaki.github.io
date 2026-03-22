@@ -16,13 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Olivier Bouaziz](https://obouaziz.github.io/) and [Aurélien Latouche](https://curie.fr/personne/aurelien-latouche).
-
-I study Biostatistics and Survival Analysis.
-
-After I completed my undergraduate degree in Applied Mathematics at the Federal University of Rio de Janeiro in 2021, I was awarded the Eiffel Excellence scholarship to pursue a double-degree program at ENSAE Paris, where I obtained a master's degree in Data Science, Statistics, and Machine Learning. This led me to an internship with Olivier Bouaziz and Aurélien Latouche from March 2023 to September 2023, focusing on survival analysis. 
-
-Since October 2023, I have been continuing this work, which focuses on the design of randomized clinical trials using survival quantiles in the presence of censored data.
+I am a PhD candidate in Applied Mathematics at the Université Paris Sciences et Lettres, specifically at the École nationale supérieure des mines de Paris (Mines Paris). My thesis focuses on non-convex optimization and I am supervised by [Valentina Sessa](https://sites.google.com/site/sessavalentina) and [Sophie Demassey](https://sofdem.github.io/).
 
 
 
