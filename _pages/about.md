@@ -8,8 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Centre de Mathématiques Appliquées, Mines Paris – PSL</p>
-    <p>1 rue Claude Daunesse, 06904 Sophia Antipolis Cedex, FRANCE</p>
+    <p>1 rue Claude Daunesse, 06904 Valbonne, France</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
