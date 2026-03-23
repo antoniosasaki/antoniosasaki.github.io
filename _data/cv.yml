@@ -1,4 +1,4 @@
-  - title: Personal
+- title: Personal
   type: map
   contents:
     - name: Full name
@@ -8,7 +8,7 @@
     - name: Contact
       value: antonio.sasaki@minesparis.psl.eu
 
-  - title: Education
+- title: Education
   type: time_table
   contents:
     - title: Doctoral degree (Ph.D.)
