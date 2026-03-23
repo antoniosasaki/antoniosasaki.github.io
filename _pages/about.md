@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Applied Mathematics at the [Paris Sciences et Lettres University](https://en.wikipedia.org/wiki/Paris_Sciences_et_Lettres_University), specifically at [Mines Paris](https://en.wikipedia.org/wiki/Mines_Paris_%E2%80%93_PSL).
+I am a PhD candidate in Applied Mathematics at the [Paris Sciences et Lettres University](https://en.wikipedia.org/wiki/Paris_Sciences_et_Lettres_University), specifically at [Mines Paris – PSL](https://en.wikipedia.org/wiki/Mines_Paris_%E2%80%93_PSL).
 
 My thesis focuses on non-convex optimization and I am working under the invaluable supervision of [Valentina Sessa](https://sites.google.com/site/sessavalentina) and [Sophie Demassey](https://sofdem.github.io/).
 
