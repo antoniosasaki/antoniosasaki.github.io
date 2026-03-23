@@ -1,4 +1,4 @@
-- title: General Information
+- title: Personal
   type: map
   contents:
     - name: Full name
@@ -14,23 +14,24 @@
     - title: Doctoral degree (Ph.D.)
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
-      - title: Thesis title:
+      description:
+        - title: Thesis title
           contents:
             - Mathematical programming with equilibrium constraints
         - title: Under the supervision of
           contents:
             - Valentina Sessa (Centre for Applied Mathematics, Mines Paris)
             - Sophie Demassey (Centre for Applied Mathematics, Mines Paris)
-    
+
     - title: Engineer's degree (M.Eng.)
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
         - Holder of the Eiffel Excellence Scholarship (Government of France)
         - Specialization in Data Science, Statistics and Machine learning
-    
+
     - title: Bachelor's degree (B.Sc.)
       institution: Federal University of Rio de Janeiro
       year: 2019 – 2024
       description:
-        - Degree in Mathematics with specialization in Pure Mathematics    
+        - Degree in Mathematics with specialization in Pure Mathematics
