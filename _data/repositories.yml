@@ -1,9 +1,8 @@
 github_users:
-  - beafarah
+  - antoniosasaki
 
 github_repos:
-  - beafarah/dens-estimation-at-quantile
-  - beafarah/survival
-  - beafarah/ML-projects 
-  - beafarah/NLP_Intent_Classification
-  - beafarah/cloudcomputingensae
+  - antoniosasaki/antoniosasaki.github.io
+  - antoniosasaki/mortality
+  - antoniosasaki/NLP-Gender-Classifier
+  - antoniosasaki/Advanced-Machine-Learning-Project
