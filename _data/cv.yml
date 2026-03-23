@@ -1,15 +1,6 @@
-- type: map
-  contents:
-    - name: Full name
-      value: Antonio Martins Sasaki
-    - name: Languages
-      value: Portuguese, English, French
-    - name: Contact
-      value: antonio.sasaki@minesparis.psl.eu
-
 - type: time_table
   contents:
-    - title: Doctoral degree (Ph.D.)
+    - title: Doctoral degree (Ph.D)
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
       description:
@@ -18,17 +9,17 @@
             - Mathematical programming with equilibrium constraints
         - title: Under the supervision of
           contents:
-            - Valentina Sessa (Centre for Applied Mathematics, Mines Paris)
-            - Sophie Demassey (Centre for Applied Mathematics, Mines Paris)
+            - Valentina Sessa (Centre for Applied Mathematics)
+            - Sophie Demassey (Centre for Applied Mathematics)
 
-    - title: Engineer's degree (M.Eng.)
+    - title: Engineer's degree (M.Eng)
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
         - Holder of the Eiffel Excellence Scholarship (Government of France)
         - Specialization in Data Science, Statistics and Machine learning
 
-    - title: Bachelor's degree (B.Sc.)
+    - title: Bachelor's degree (B.Sc)
       institution: Federal University of Rio de Janeiro
       year: 2019 – 2024
       description:
