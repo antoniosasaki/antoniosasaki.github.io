@@ -2,7 +2,7 @@
 layout: default
 permalink: /power/
 title: power calculator
-nav: true
+nav: false
 nav_order: 7
 ---
 
