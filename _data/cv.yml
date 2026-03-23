@@ -1,4 +1,3 @@
-- title: General Information
   type: map
   contents:
     - name: Full name
@@ -8,24 +7,24 @@
     - name: Contact
       value: antonio.sasaki@minesparis.psl.eu
 
-- title: Education
   type: time_table
   contents:
     - title: Doctoral degree (Ph.D.)
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
-      description:
-        - Mathematical programming with equilibrium constraints
+      - title: Thesis title:
+          contents:
+            - Mathematical programming with equilibrium constraints
         - title: Under the supervision of
           contents:
-            - Valentina Sessa (Centre for Applied Mathematics, Mines Paris – PSL)
-            - Sophie Demassey (Centre for Applied Mathematics, Mines Paris – PSL)
+            - Valentina Sessa (Centre for Applied Mathematics, Mines Paris)
+            - Sophie Demassey (Centre for Applied Mathematics, Mines Paris)
     
     - title: Engineer's degree (M.Eng.)
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
-        - Holder of the Excellence Eiffel Scholarship (Government of France)
+        - Holder of the Eiffel Excellence Scholarship (Government of France)
         - Specialization in Data Science, Statistics and Machine learning
     
     - title: Bachelor's degree (B.Sc.)
