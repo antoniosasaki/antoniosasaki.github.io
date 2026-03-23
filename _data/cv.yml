@@ -1,5 +1,4 @@
-- title: Personal
-  type: map
+- type: map
   contents:
     - name: Full name
       value: Antonio Martins Sasaki
@@ -8,8 +7,7 @@
     - name: Contact
       value: antonio.sasaki@minesparis.psl.eu
 
-- title: Education
-  type: time_table
+- type: time_table
   contents:
     - title: Doctoral degree (Ph.D.)
       institution: Mines Paris – Paris Sciences et Lettres University
