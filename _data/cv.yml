@@ -1,6 +1,6 @@
 - type: time_table
   contents:
-    - title: Doctoral degree (Ph.D.)
+    - title: Ph.D.
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
       description:
@@ -12,14 +12,14 @@
             - "[Valentina Sessa](https://sites.google.com/site/sessavalentina) (Centre for Applied Mathematics)"
             - "[Sophie Demassey](https://sofdem.github.io) (Centre for Applied Mathematics)"
 
-    - title: Engineer's degree (M.Eng.)
+    - title: M.Eng.
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
         - "Holder of the [Eiffel Excellence Scholarship](https://fr.wikipedia.org/wiki/Bourse_d%27excellence_Eiffel) (Government of France)"
         - "Specialization in [Data Science, Statistics and Machine Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)"
 
-    - title: Bachelor's degree (B.Sc.)
+    - title: B.Sc.
       institution: Federal University of Rio de Janeiro
       year: 2019 – 2024
       description:
