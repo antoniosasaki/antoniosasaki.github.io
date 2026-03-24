@@ -1,6 +1,6 @@
 - type: time_table
   contents:
-    - title: Doctorate (Ph.D.)
+    - title: Doctorate
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
       description:
@@ -11,15 +11,15 @@
           contents:
             - "[Valentina Sessa](https://sites.google.com/site/sessavalentina) and [Sophie Demassey](https://sofdem.github.io)"
 
-    - title: Diplôme d'Ingénieur (Eng.)
+    - title: Diplôme d'Ingénieur
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
         - "Holder of the [Eiffel Excellence Scholarship](https://fr.wikipedia.org/wiki/Bourse_d%27excellence_Eiffel) (Government of France)"
         - "Degree in [Data Science, Statistics and Machine Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)"
 
-    - title: Bachelor (B.Sc.)
+    - title: Bachelor's degree
       institution: Federal University of Rio de Janeiro
       year: 2019 – 2024
       description:
-        - Degree in Mathematics with an emphasis in Pure Mathematics
+        - Major in Mathematics with an emphasis in Pure Mathematics
