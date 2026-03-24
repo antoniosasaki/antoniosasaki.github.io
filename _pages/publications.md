@@ -10,6 +10,8 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
+I am interested in mathematical programming and linear algebra.
+
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
