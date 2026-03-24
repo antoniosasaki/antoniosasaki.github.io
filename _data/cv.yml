@@ -1,25 +1,26 @@
 - type: time_table
   contents:
-    - title: Ph.D.
+    - title: Doctoral degree (Ph.D.)
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
       description:
-        - title: Thesis title
+        - Degree in Applied Mathematics
+        - title: Thesis title:
           contents:
             - "[Mathematical programming with equilibrium constraints](https://theses.fr/s408928)"
-        - title: Under the supervision of
-          contents:
-            - "[Valentina Sessa](https://sites.google.com/site/sessavalentina) (Centre for Applied Mathematics)"
-            - "[Sophie Demassey](https://sofdem.github.io) (Centre for Applied Mathematics)"
+        #- title: Under the supervision of
+          #contents:
+            #- "[Valentina Sessa](https://sites.google.com/site/sessavalentina) (Centre for Applied Mathematics)"
+            #- "[Sophie Demassey](https://sofdem.github.io) (Centre for Applied Mathematics)"
 
-    - title: M.Eng.
+    - title: Engineer's degree (M.Eng.)
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
+        - "Degree in [Data Science, Statistics and Machine Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)"
         - "Holder of the [Eiffel Excellence Scholarship](https://fr.wikipedia.org/wiki/Bourse_d%27excellence_Eiffel) (Government of France)"
-        - "Specialization in [Data Science, Statistics and Machine Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)"
 
-    - title: B.Sc.
+    - title: Bachelor's degree (B.Sc.)
       institution: Federal University of Rio de Janeiro
       year: 2019 – 2024
       description:
