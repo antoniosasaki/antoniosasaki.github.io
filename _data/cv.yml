@@ -6,18 +6,18 @@
       description:
         - title: Thesis title
           contents:
-            - Mathematical programming with equilibrium constraints
+            - [Mathematical programming with equilibrium constraints](https://theses.fr/s408928)
         - title: Under the supervision of
           contents:
-            - Valentina Sessa (Centre for Applied Mathematics)
-            - Sophie Demassey (Centre for Applied Mathematics)
+            - [Valentina Sessa](https://sites.google.com/site/sessavalentina) (Centre for Applied Mathematics)
+            - [Sophie Demassey](https://sofdem.github.io/) (Centre for Applied Mathematics)
 
     - title: Engineer's degree (M.Eng.)
       institution: ENSAE Paris – Polytechnic Institute of Paris
       year: 2022 – 2024
       description:
-        - Holder of the Eiffel Excellence Scholarship (Government of France)
-        - Specialization in Data Science, Statistics and Machine learning
+        - Holder of the [Eiffel Excellence Scholarship](https://fr.wikipedia.org/wiki/Bourse_d%27excellence_Eiffel) (Government of France)
+        - Specialization in Data Science, Statistics and Machine Learning
 
     - title: Bachelor's degree (B.Sc.)
       institution: Federal University of Rio de Janeiro
