@@ -4,14 +4,9 @@
       institution: Mines Paris – Paris Sciences et Lettres University
       year: 2024 – now
       description:
-        - title: Degree in Applied Mathematics
         - title: Thesis title:
           contents:
             - "[Mathematical programming with equilibrium constraints](https://theses.fr/s408928)"
-        #- title: Under the supervision of
-          #contents:
-            #- "[Valentina Sessa](https://sites.google.com/site/sessavalentina) (Centre for Applied Mathematics)"
-            #- "[Sophie Demassey](https://sofdem.github.io) (Centre for Applied Mathematics)"
 
     - title: Engineer's degree (M.Eng.)
       institution: ENSAE Paris – Polytechnic Institute of Paris
