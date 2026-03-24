@@ -6,21 +6,11 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 nav_order: 6
 ---
-- October 2025 [10th Statistics and Biopharmacy Conference (SnB)](https://snb2025.sciencesconf.org/?lang=en), Paris, France
+- [Journées SMAI-MODE 2026](https://mode2026.sciencesconf.org) in Nice, France (March 2026)
 
-- March 2025 [10th Survival Analysis for Junior Researchers (SAfJR)](https://safjr2025.uni-bonn.de/), Bonn, Germany
+- [44th National Congress of Applied and Computational Mathematics](https://eventos.galoa.com.br/cnmac-2025/page/5559-home) in Rio de Janeiro, Brazil (September 2025)
 
-- March 2025 MAP5, Séminaire des doctorants, Paris
-
-- November 2024 [Journées de biostatistique](https://jdb2024.sciencesconf.org/), Paris
-
-- June 2024 Institut Curie, Séminaire de l'Unité U1331, Paris
-
-- May 2024 [18ème conférence francophone d’EPIdémiologie CLINique (EPICLIN)](https://epiclin2024.congres-scientifique.com/registration/), Dijon
-  - *Sample size calculation based on differences of quantiles in the presence of censoring*;
-  [poster](https://beafarah.github.io/assets/pdf/Poster_EPICLIN.pdf)
-
-- April 2024 [10èmes Rencontres des Jeunes Statisticien-ne-s](https://rjs2024.sciencesconf.org/?lang=fr), Porquerolles
+- [16th Global Optimization Workshop](https://sites.google.com/view/stogo25/) in Stockholm, Sweden (September 2025)
 
   
 
