@@ -7,14 +7,16 @@ years: [2026, 2025]
 nav: true
 nav_order: 2
 ---
+
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="publications" markdown="1">
 
 I am interested in [mathematical programming](https://en.wikipedia.org/wiki/Mathematical_optimization) and [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra).
 
 {%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+## {{ y }}
+
+{% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
