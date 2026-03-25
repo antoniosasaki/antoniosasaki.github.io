@@ -8,15 +8,18 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-<div class="publications" markdown="1">
+<div class="publications">
 
-I am interested in [mathematical programming](https://en.wikipedia.org/wiki/Mathematical_optimization) and [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra).
+  <p>
+    I am interested in
+    <a href="https://en.wikipedia.org/wiki/Mathematical_optimization">mathematical programming</a>
+    and
+    <a href="https://en.wikipedia.org/wiki/Linear_algebra">linear algebra</a>.
+  </p>
 
-{%- for y in page.years %}
-## {{ y }}
-
-{% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+  {% for y in page.years %}
+    <h2 class="year">{{ y }}</h2>
+    {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% endfor %}
 
 </div>
