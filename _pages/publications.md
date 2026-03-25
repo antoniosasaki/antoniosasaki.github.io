@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-I am interested in mathematical programming and linear algebra.
+I am interested in [mathematical programming](https://en.wikipedia.org/wiki/Mathematical_optimization) and [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra).
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
