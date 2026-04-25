@@ -6,7 +6,7 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 nav_order: 6
 ---
-It is possible that we have met at one of these conferences:​
+It is possible that we have met at one of these conferences 😅​
 
 - [Journées SMAI-MODE 2026](https://mode2026.sciencesconf.org) in Nice, France ([Poster](https://mode2026.sciencesconf.org))
 
