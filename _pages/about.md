@@ -20,4 +20,4 @@ I am a PhD candidate in Applied Mathematics at the [Paris Sciences et Lettres Un
 
 My thesis focuses on non-convex optimization and I am working under the great supervision of [Valentina Sessa](https://sites.google.com/site/sessavalentina) and [Sophie Demassey](https://sofdem.github.io/).
 
-Please feel free to contact me! 🙏🏻
+Please feel free to contact me!
