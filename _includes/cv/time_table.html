@@ -7,6 +7,12 @@
             <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
               {{ content.year }}
             </span>
+
+            {% if content.country %}
+              <div class="text-muted" style="font-size: 0.75rem; margin-top: 0.25rem;">
+                {{ content.country }}
+              </div>
+            {% endif %}
           </div>
         {% endif %}
 
