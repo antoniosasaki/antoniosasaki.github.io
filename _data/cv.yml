@@ -1,20 +1,20 @@
 - type: time_table
   contents:
-    - title: Doctorate
+    - title: Doctoral degree (D.Sc.)
       institution: Paris Sciences et Lettres University
       year: 2024 – now
       country: France 🇫🇷
       description:
         - "[Applied Mathematics](https://theses.fr/s408928)"
 
-    - title: Diplôme d'ingénieur
+    - title: Master's degree (M.Sc.)
       institution: Polytechnic Institute of Paris
       year: 2022 – 2024
       country: France 🇫🇷
       description:
         - "[Statistics and Machine Learning](https://www.ensae.fr/en/testimonials/studying-double-degree-ensae-paris-and-ufrj-antonio-sasakis-experience)"
 
-    - title: Bachelor's degree
+    - title: Bachelor's degree (B.Sc.)
       institution: Federal University of Rio de Janeiro
       year: 2019 – 2024
       country: Brazil 🇧🇷
