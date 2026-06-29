@@ -255,6 +255,14 @@ blockquote {
   text-align: center;
   .contact-icons {
     font-size: 4rem;
+
+    a[title="email"] i,
+    a[title="ORCID"] i,
+    a[title="Google Scholar"] i {
+      font-size: 0.85em;
+      vertical-align: 0.05em;
+    }
+
     a {
       i::before {
         color: var(--global-text-color);
@@ -271,7 +279,6 @@ blockquote {
     font-size: 0.8rem;
   }
 }
-
 
 // Footer
 footer.fixed-bottom {
