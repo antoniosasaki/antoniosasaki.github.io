@@ -29,10 +29,10 @@ nav_order: 2
     const status = badge.textContent.trim().toLowerCase();
 
     if (status === 'published') {
-      badge.style.backgroundColor = 'darkgreen';
+      badge.style.backgroundColor = 'rgba(0, 90, 45, 0.72)';
       badge.style.color = 'white';
     } else if (status === 'preprint') {
-      badge.style.backgroundColor = 'darkred';
+      badge.style.backgroundColor = 'rgba(120, 20, 30, 0.72)';
       badge.style.color = 'white';
     }
   });
