@@ -23,3 +23,17 @@ nav_order: 2
   {% endfor %}
 
 </div>
+
+<script>
+  document.querySelectorAll('.publications .abbr .badge').forEach(function (badge) {
+    const status = badge.textContent.trim().toLowerCase();
+
+    if (status === 'published') {
+      badge.style.backgroundColor = 'darkgreen';
+      badge.style.color = 'white';
+    } else if (status === 'preprint') {
+      badge.style.backgroundColor = 'darkred';
+      badge.style.color = 'white';
+    }
+  });
+</script>
