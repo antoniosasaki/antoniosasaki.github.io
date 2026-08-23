@@ -1,0 +1,73 @@
+l.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'></rdf:li></rdf:Alt></dc:title><dc:creator><rdf:Seq><rdf:li></rdf:li></rdf:Seq></dc:creator><dc:description><rdf:Alt><rdf:li xml:lang='x-default'></rdf:li></rdf:Alt></dc:description></rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                        
+                                                                        
+<?xpacket end='w'?>
+endstream
+endobj
+2 0 obj
+<</Producer(GPL Ghostscript 10.05.1)
+/CreationDate(D:20260823234935Z00'00')
+/ModDate(D:20260823234935Z00'00')
+/Title()
+/Author()
+/Subject()
+/Keywords()
+/Creator(LaTeX with hyperref)>>endobj
+xref
+0 47
+0000000000 65535 f 
+0000007431 00000 n 
+0000042507 00000 n 
+0000007372 00000 n 
+0000007141 00000 n 
+0000000138 00000 n 
+0000007121 00000 n 
+0000009859 00000 n 
+0000014750 00000 n 
+0000011073 00000 n 
+0000018568 00000 n 
+0000012397 00000 n 
+0000028393 00000 n 
+0000013236 00000 n 
+0000036462 00000 n 
+0000007543 00000 n 
+0000013695 00000 n 
+0000037151 00000 n 
+0000007588 00000 n 
+0000007769 00000 n 
+0000007950 00000 n 
+0000008107 00000 n 
+0000008301 00000 n 
+0000008482 00000 n 
+0000008698 00000 n 
+0000008881 00000 n 
+0000009064 00000 n 
+0000014296 00000 n 
+0000037840 00000 n 
+0000009247 00000 n 
+0000009279 00000 n 
+0000015053 00000 n 
+0000019021 00000 n 
+0000028736 00000 n 
+0000036671 00000 n 
+0000037360 00000 n 
+0000038111 00000 n 
+0000009362 00000 n 
+0000010238 00000 n 
+0000011598 00000 n 
+0000011719 00000 n 
+0000012861 00000 n 
+0000012948 00000 n 
+0000013406 00000 n 
+0000013865 00000 n 
+0000014658 00000 n 
+0000040787 00000 n 
+trailer
+<< /Size 47 /Root 1 0 R /Info 2 0 R
+/ID [<49A7711EEE98DE7AC720EA2C941F6BDF><49A7711EEE98DE7AC720EA2C941F6BDF>]
+>>
+startxref
+42705
+%%EOF
