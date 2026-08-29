@@ -27,8 +27,9 @@ nav_order: 2
 <script>
   document.querySelectorAll('.publications .abbr .badge').forEach(function (badge) {
     const status = badge.textContent.trim().toLowerCase();
+    badge.textContent = status;
 
-    if (status === 'published') {
+    if (status === 'published' || status === 'accepted') {
       badge.style.backgroundColor = 'rgba(0, 90, 45, 0.72)';
       badge.style.color = 'white';
     } else if (status === 'preprint') {
