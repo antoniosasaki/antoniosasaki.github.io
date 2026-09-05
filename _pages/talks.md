@@ -20,11 +20,9 @@ nav_order: 6
         <span class="talk-type">talk</span>
       </div>
       <div class="talk-title">Symmetric gauge theory for cutting-plane methods in semidefinite programming</div>
-      <div class="talk-meta">ISEG, University of Lisbon · Lisbon, Portugal · July 20–22, 2026</div>
+      <div class="talk-meta">Lisbon, Portugal · July 20–22, 2026</div>
       <div class="talk-links">
         <a href="https://optimization2026.iseg.ulisboa.pt">conference</a>
-        <span>·</span>
-        <a href="https://hal.science/hal-05682646">HAL</a>
       </div>
     </div>
 
@@ -37,8 +35,6 @@ nav_order: 6
       <div class="talk-meta">Nice, France · March 18–20, 2026</div>
       <div class="talk-links">
         <a href="https://mode2026.sciencesconf.org">conference</a>
-        <span>·</span>
-        <a href="https://hal.science/hal-05691125">HAL</a>
       </div>
     </div>
   </section>
@@ -48,11 +44,11 @@ nav_order: 6
 
     <div class="talk-entry">
       <div class="talk-heading">
-        <span class="talk-event">44th National Congress of Applied and Computational Mathematics (CNMAC 2025)</span>
+        <span class="talk-event">44th National Congress of Applied and Computational Mathematics</span>
         <span class="talk-type">talk</span>
       </div>
       <div class="talk-title">An extension of Kac’s lemma for Furstenberg’s ergodic multiple recurrences</div>
-      <div class="talk-meta">Rio de Janeiro, Brazil · September 15, 2025</div>
+      <div class="talk-meta">Rio de Janeiro, Brazil · September 15–19, 2025</div>
       <div class="talk-links">
         <a href="https://eventos.galoa.com.br/cnmac-2025/page/5559-home">conference</a>
       </div>
@@ -60,15 +56,13 @@ nav_order: 6
 
     <div class="talk-entry">
       <div class="talk-heading">
-        <span class="talk-event">16th Global Optimization Workshop (STOGO 2025)</span>
+        <span class="talk-event">16th Global Optimization Workshop</span>
         <span class="talk-type">talk</span>
       </div>
       <div class="talk-title">On computational evaluation of lower bounds for the fractional quadratic program over the standard simplex</div>
       <div class="talk-meta">Stockholm, Sweden · September 2–5, 2025</div>
       <div class="talk-links">
         <a href="https://sites.google.com/view/stogo25/">conference</a>
-        <span>·</span>
-        <a href="https://hal.science/hal-05694898">HAL</a>
       </div>
     </div>
   </section>
