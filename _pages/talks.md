@@ -76,7 +76,8 @@ nav_order: 6
 
   .talks-intro {
     margin-bottom: 2.2rem;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
+    opacity: 1;
   }
 
   .talk-year {
