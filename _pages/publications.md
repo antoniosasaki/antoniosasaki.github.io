@@ -8,9 +8,9 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications papers-list">
+<div class="publications">
 
-  <p class="papers-intro">
+  <p>
     I am interested in
     <a href="https://en.wikipedia.org/wiki/Mathematical_optimization">mathematical programming</a>
     and
@@ -24,171 +24,17 @@ nav_order: 2
 
 </div>
 
-<style>
-  .papers-list {
-    max-width: 900px;
-  }
-
-  .papers-intro {
-    margin-bottom: 2.4rem;
-    color: var(--global-text-color-light);
-  }
-
-  .papers-list h2.year {
-    margin: 2.6rem 0 1.2rem;
-    padding: 0;
-    border: 0;
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--global-text-color-light);
-  }
-
-  .papers-list h2.year:first-of-type {
-    margin-top: 0;
-  }
-
-  .papers-list ol.bibliography {
-    margin: 0;
-    padding: 0;
-  }
-
-  .papers-list ol.bibliography > li {
-    margin: 0;
-    padding: 1.35rem 0 1.45rem;
-    border-top: 1px solid var(--global-divider-color);
-  }
-
-  .papers-list ol.bibliography > li:last-child {
-    border-bottom: 1px solid var(--global-divider-color);
-  }
-
-  .papers-list ol.bibliography .row {
-    align-items: flex-start;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .papers-list ol.bibliography .row > .abbr,
-  .papers-list ol.bibliography .row > .preview {
-    flex: 0 0 7rem;
-    max-width: 7rem;
-    padding: 0.15rem 1.25rem 0 0;
-    text-align: left;
-  }
-
-  .papers-list ol.bibliography .row > .col-sm-8 {
-    flex: 1 1 0;
-    max-width: none;
-    padding: 0;
-  }
-
-  .papers-list .abbr .badge {
-    min-width: 0;
-    padding: 0;
-    border: 0;
-    border-radius: 0;
-    background: transparent !important;
-    box-shadow: none;
-    font-size: 0.75rem;
-    font-weight: 500;
-    line-height: 1.4;
-    text-transform: lowercase;
-    color: var(--global-text-color-light) !important;
-  }
-
-  .papers-list .abbr .badge a {
-    color: inherit !important;
-  }
-
-  .papers-list .title {
-    margin-bottom: 0.28rem;
-    font-size: 1.08rem;
-    font-weight: 600;
-    line-height: 1.38;
-  }
-
-  .papers-list .author {
-    margin-bottom: 0.18rem;
-    font-size: 0.94rem;
-    line-height: 1.45;
-    color: var(--global-text-color);
-  }
-
-  .papers-list .author em {
-    font-style: normal;
-    font-weight: 500;
-  }
-
-  .papers-list .periodical {
-    margin-top: 0.08rem;
-    font-size: 0.9rem;
-    line-height: 1.45;
-    color: var(--global-text-color-light);
-  }
-
-  .papers-list .links {
-    margin-top: 0.42rem;
-    line-height: 1.4;
-  }
-
-  .papers-list .links .btn {
-    display: inline;
-    margin: 0 0.65rem 0 0;
-    padding: 0;
-    border: 0;
-    border-radius: 0;
-    background: transparent;
-    box-shadow: none !important;
-    font-size: 0.82rem;
-    font-weight: 400;
-    line-height: inherit;
-    text-transform: lowercase;
-    color: var(--global-theme-color);
-  }
-
-  .papers-list .links .btn:hover,
-  .papers-list .links .btn:focus {
-    background: transparent;
-    color: var(--global-theme-color);
-    text-decoration: underline;
-    box-shadow: none !important;
-  }
-
-  .papers-list .abstract.hidden,
-  .papers-list .bibtex.hidden {
-    margin-top: 0.8rem;
-  }
-
-  .papers-list .abstract p {
-    margin-bottom: 0;
-    font-size: 0.92rem;
-    line-height: 1.55;
-    color: var(--global-text-color-light);
-  }
-
-  @media (max-width: 576px) {
-    .papers-list ol.bibliography > li {
-      padding: 1.15rem 0 1.25rem;
-    }
-
-    .papers-list ol.bibliography .row {
-      display: block;
-    }
-
-    .papers-list ol.bibliography .row > .abbr,
-    .papers-list ol.bibliography .row > .preview {
-      max-width: none;
-      padding: 0 0 0.45rem;
-    }
-
-    .papers-list .title {
-      font-size: 1.03rem;
-    }
-  }
-</style>
-
 <script>
-  document.querySelectorAll('.papers-list .abbr .badge').forEach(function (badge) {
-    badge.textContent = badge.textContent.trim().toLowerCase();
+  document.querySelectorAll('.publications .abbr .badge').forEach(function (badge) {
+    const status = badge.textContent.trim().toLowerCase();
+    badge.textContent = status;
+
+    if (status === 'published' || status === 'accepted') {
+      badge.style.backgroundColor = 'rgba(0, 90, 45, 0.72)';
+      badge.style.color = 'white';
+    } else if (status === 'preprint') {
+      badge.style.backgroundColor = 'rgba(120, 20, 30, 0.72)';
+      badge.style.color = 'white';
+    }
   });
 </script>
