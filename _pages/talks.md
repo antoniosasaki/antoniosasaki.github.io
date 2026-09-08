@@ -22,7 +22,7 @@ nav_order: 6
       <div class="talk-title">Symmetric gauge theory for cutting-plane methods in semidefinite programming</div>
       <div class="talk-meta">Lisbon, Portugal · July 20–22, 2026</div>
       <div class="talk-links">
-        <a href="https://optimization2026.iseg.ulisboa.pt">conference webpage</a>
+        <a href="https://optimization2026.iseg.ulisboa.pt">conference link</a>
       </div>
     </div>
 
@@ -34,7 +34,7 @@ nav_order: 6
       <div class="talk-title">Spectral-gauge cuts for semidefinite programming</div>
       <div class="talk-meta">Nice, France · March 18–20, 2026</div>
       <div class="talk-links">
-        <a href="https://mode2026.sciencesconf.org">conference webpage</a>
+        <a href="https://mode2026.sciencesconf.org">conference link</a>
       </div>
     </div>
   </section>
@@ -50,7 +50,7 @@ nav_order: 6
       <div class="talk-title">An extension of Kac’s lemma for Furstenberg’s ergodic multiple recurrences</div>
       <div class="talk-meta">Rio de Janeiro, Brazil · September 15–19, 2025</div>
       <div class="talk-links">
-        <a href="https://eventos.galoa.com.br/cnmac-2025/page/5559-home">conference webpage</a>
+        <a href="https://eventos.galoa.com.br/cnmac-2025/page/5559-home">conference link</a>
       </div>
     </div>
 
@@ -62,7 +62,7 @@ nav_order: 6
       <div class="talk-title">On computational evaluation of lower bounds for the fractional quadratic program over the standard simplex</div>
       <div class="talk-meta">Stockholm, Sweden · September 2–5, 2025</div>
       <div class="talk-links">
-        <a href="https://sites.google.com/view/stogo25/">conference webpage</a>
+        <a href="https://sites.google.com/view/stogo25/">conference link</a>
       </div>
     </div>
   </section>
