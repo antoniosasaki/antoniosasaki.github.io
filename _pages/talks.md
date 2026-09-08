@@ -47,7 +47,7 @@ nav_order: 6
         <span class="talk-event">44th National Congress of Applied and Computational Mathematics</span>
         <span class="talk-type">talk</span>
       </div>
-      <div class="talk-title">An extension of Kac’s lemma for Furstenberg’s ergodic multiple recurrences</div>
+      <div class="talk-title">Kac’s lemma for Furstenberg recurrences</div>
       <div class="talk-meta">Rio de Janeiro, Brazil · September 15–19, 2025</div>
       <div class="talk-links">
         <a href="https://eventos.galoa.com.br/cnmac-2025/page/5559-home">conference link</a>
