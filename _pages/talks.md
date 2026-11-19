@@ -16,6 +16,18 @@ nav_order: 6
 
     <div class="talk-entry">
       <div class="talk-heading">
+        <span class="talk-event">PGMO Days 2026</span>
+        <span class="talk-type">talk</span>
+      </div>
+      <div class="talk-title">Spectral-Gauge Cuts for Semidefinite Optimization</div>
+      <div class="talk-meta">Palaiseau, France · November 17–18, 2026</div>
+      <div class="talk-links">
+        <a href="https://easychair.org/smart-program/PGMODAYS2026/">conference link</a>
+      </div>
+    </div>
+
+    <div class="talk-entry">
+      <div class="talk-heading">
         <span class="talk-event">Optimization 2026</span>
         <span class="talk-type">talk</span>
       </div>
